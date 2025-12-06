@@ -1,12 +1,12 @@
 # Hi 👋, I'm Aaditya Bhadane
 
-### A passionate Web developer
+### A passionate Mern Stack Developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BhadaneAaditya" alt="BhadaneAaditya" /></a> </p>
 
-- 🔭 I'm currently working on **projects that solve the problems of Mankinds **
+- 🔭 I'm currently working on **projects that solve the problems of Mankinds**
 
-- 🌱 I'm currently learning **Web3 and AGI **
+- 🌱 I'm currently learning **Web3 and AGI**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
