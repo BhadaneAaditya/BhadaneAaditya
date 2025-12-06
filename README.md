@@ -2,8 +2,6 @@
 
 ### A passionate Web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BhadaneAaditya&label=Profile views&color=0e75b6&style=flat" alt="BhadaneAaditya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BhadaneAaditya" alt="BhadaneAaditya" /></a> </p>
 
 - 🔭 I'm currently working on **projects that solve the problems of Mankinds **
