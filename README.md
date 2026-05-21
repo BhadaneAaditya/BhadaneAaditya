@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://github.com/BhadaneAaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BhadaneAaditya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aaditya-bhadane-58102525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaditya-bhadane-58102525a/" height="30" width="40" /></a>
-<a href="https://x.com/aadityasbhadane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aadityasbhadane" height="30" width="40" /></a>
+<a href="https://x.com/AadityaBhadane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aadityasbhadane" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/AadityaSBhadane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/AadityaSBhadane/" height="30" width="40" /></a>
 </p>
 
