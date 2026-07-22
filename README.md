@@ -53,8 +53,6 @@ Learning: Web3, AGI, System Design, Cloud Infrastructure
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
